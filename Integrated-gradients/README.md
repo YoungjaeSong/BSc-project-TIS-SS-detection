@@ -30,3 +30,9 @@
       <li>It is a test dataset file in fasta format</li>
     </ul>
   </li>
+  <li>Trial30_1 directory
+    <ul>
+      <li>This directory is the saved model made from previous experiment</li>
+    </ul>
+  </li>
+  
