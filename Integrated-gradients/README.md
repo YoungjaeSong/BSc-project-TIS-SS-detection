@@ -1,8 +1,8 @@
 # Integrated gradients implementation
 ## Introduction
 
-## Description for each APIs and files
-<p>"Integrated_gradients_algorithm.py" file was used to run the integrated gradient experimennt on the produced model. I have implemented various self-made APIs, and in this section I will provide descriptions for each.</p>
+## Description for each files and APIs
+<p>"Integrated_gradients_algorithm.py" file was used to run the integrated gradient experimennt on the produced model. So, to run integrated gradients, run the "Integrated_gradients_algorithm.py". I have implemented various self-made APIs, and in this section I will provide descriptions for each.</p>
 <ul>
   <li>Integrated_gradients_algorithm.py
     <ul>
